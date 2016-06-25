@@ -1,1 +1,7 @@
 this is third file for the practice
+
+this is second line for the third file
+
+this is 3rd line for the third file
+
+this is 4th line for the fourth file
